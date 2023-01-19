@@ -56586,8 +56586,7 @@
               "name": "Long Highlights",
               "description": "720p",
               "logo": "X0cTmYO",
-              "openWebView": true,
-              "openBrowser": true
+              "openWebView": true
             },
             {
               "dateTime": 0,
