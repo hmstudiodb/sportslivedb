@@ -1,0 +1,31 @@
+[
+  {
+    "champions.league.live.tv": {
+      "ads_list": [],
+      "am_in": "",
+      "interval": 60000,
+      "is_id": "",
+      "status": "2",
+      "version_code": "0",
+      "nationFlag":
+        {
+          "Manchester United":"https://ssl.gstatic.com/onebox/media/sports/logos/5FQBXpID1LAQJb0BOnmTpw_96x96.png",
+          "Napoli":"https://ssl.gstatic.com/onebox/media/sports/logos/VOizBJPDHnvnSaU3XPVGAw_96x96.png",
+          "Juventus":"https://ssl.gstatic.com/onebox/media/sports/logos/R7-Lqc_SDxd97uWgoeUQ-g_96x96.png"
+        },
+        "logo":{
+          "123ecast":"HbiakTK",
+          "gocast2":"xeZBWOy",
+          "cyfostreams":"E9IuO1X",
+          "seegames":"PjdwPnq"
+        },
+        "description":{
+          "123ecast":"720p",
+          "gocast2":"1080p",
+          "cyfostreams":"Full Hd",
+          "seegames":"HD"
+        }
+      
+    }
+  }
+]
