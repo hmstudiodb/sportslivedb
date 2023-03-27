@@ -19,12 +19,12 @@
         },
         "channel_info":{
           "123ecast":{
-            "name":"",
+            "name":"123ecast",
             "logo":"HbiakTK",
             "des":"720p"
           },
           "gocast2":{
-            "name":"",
+            "name":"gocast2",
             "logo":"xeZBWOy",
             "des":"1080p"
           },
@@ -34,12 +34,12 @@
             "des":"Full Hd"
           },
           "seegames":{
-            "name":"",
+            "name":"seegames",
             "logo":"PjdwPnq",
             "des":"HD Stream"
           },
           "77.247.109.15":{
-            "name":"",
+            "name":"cyfostreams",
             "logo":"5NVLPzn",
             "des":"HD Primary"
           }
