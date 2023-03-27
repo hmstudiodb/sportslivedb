@@ -17,19 +17,32 @@
           "Malta":"https://ssl.gstatic.com/onebox/media/sports/logos/CBxrCxiBkSddrBEWZWQNzw_96x96.png",
           "Italy":"https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png"
         },
-        "logo":{
-          "123ecast":"HbiakTK",
-          "gocast2":"xeZBWOy",
-          "cyfostreams":"E9IuO1X",
-          "77.247.109.15":"5NVLPzn",
-          "seegames":"PjdwPnq"
-        },
-        "description":{
-          "123ecast":"720p",
-          "gocast2":"1080p",
-          "cyfostreams":"Full Hd",
-          "seegames":"HD Stream",
-          "77.247.109.15":"HD Primary",
+        "channel_info":{
+          "123ecast":{
+            "name":"",
+            "logo":"HbiakTK",
+            "des":"720p"
+          },
+          "gocast2":{
+            "name":"",
+            "logo":"xeZBWOy",
+            "des":"1080p"
+          },
+          "cyfostreams":{
+            "name":"",
+            "logo":"E9IuO1X",
+            "des":"Full Hd"
+          },
+          "seegames":{
+            "name":"",
+            "logo":"PjdwPnq",
+            "des":"HD Stream"
+          },
+          "77.247.109.15":{
+            "name":"",
+            "logo":"5NVLPzn",
+            "des":"HD Primary"
+          }
         }
       
     }
